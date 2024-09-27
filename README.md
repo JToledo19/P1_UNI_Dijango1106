@@ -13,7 +13,7 @@ configuraciones basicas para trabajar con el framework de Dijango
 - 8 seleccionar interprete de python --> preciona F1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 instalara Djang --> python -m pip install django
-- 11 creando el proyuecto --> python manage.py migrate
+- 11 creando el proyuecto --> python manage.py migrate toledo\Perfumeria1106
 - 12 realizar migracion al proyecto --> python manage.py migrate
 - 13 ejecutar servidor web --> python mange.py runserver
 - me trabajo el proyecto

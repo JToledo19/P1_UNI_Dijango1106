@@ -16,4 +16,5 @@ configuraciones basicas para trabajar con el framework de Dijango
 - 11 creando el proyuecto --> python manage.py migrate
 - 12 realizar migracion al proyecto --> python manage.py migrate
 - 13 ejecutar servidor web --> python mange.py runserver
+- me trabajo el proyecto
   
